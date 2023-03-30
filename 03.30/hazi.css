@@ -1,0 +1,44 @@
+html,
+body {
+    background-image: url(erdo.jpeg);
+}
+
+.Gombok {
+    background-color: rgba(212, 226, 12, 0.85);
+    width: 25%;
+    margin: 0px auto;
+    box-shadow: 2px 4px 4px 4px;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+
+table {
+    margin: auto;
+}
+
+.btn {
+    width: 100px;
+    
+}
+
+.leiras {
+    background-color: rgba(163, 103, 12, 0.85);
+    color: #000;
+    width: 40%;
+    margin: 0px auto;
+    box-shadow: 2px 4px 4px 4px;
+    font-size: large;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif
+}
+
+.lorem_ipsum {
+    background-color: rgba(252, 95, 5, 0.75);
+    color: #000;
+    width: 40%;
+    margin: 0px auto;
+    box-shadow: 2px 4px 4px 4px;
+    font-size: large;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif
+}
+img{
+    margin: 5px;
+}
